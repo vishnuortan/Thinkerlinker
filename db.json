@@ -1,0 +1,17 @@
+{
+  "profile": [
+    {
+      "id": 1,
+      "firstname": "vishnu",
+      "lastname": "saravanan",
+	  "profile_dp":"",
+    },
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ]
+}
